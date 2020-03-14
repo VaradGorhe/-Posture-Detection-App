@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267305559158",
+    "firebase_url": "https://posture-detection-b1018.firebaseio.com",
+    "project_id": "posture-detection-b1018",
+    "storage_bucket": "posture-detection-b1018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267305559158:android:880a6cc3d492cc97f52b57",
+        "android_client_info": {
+          "package_name": "com.example.posturedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267305559158-i895bgf5d6qkjonahgp0n0miaemaspo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.posturedetection",
+            "certificate_hash": "cd268bd497a6e46058306716e45187c2769584ac"
+          }
+        },
+        {
+          "client_id": "267305559158-ae7uuh2ofls71qo7ksrbhqlefgj2mbss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBiiO0B7YJEgKkL-k1csNZsRoQ6fW-I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267305559158-ae7uuh2ofls71qo7ksrbhqlefgj2mbss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
